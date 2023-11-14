@@ -4,7 +4,7 @@ public class Student{
     this.studentNumber = studentNumber;
   }
 
-  public getStudentNum(){
+  public int getStudentNum(){
     return studentNumber;
   }
 }
